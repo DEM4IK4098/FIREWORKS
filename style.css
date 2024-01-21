@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;}
+
+nav {
+background-color: rgb(60, 0, 129);
+}
+nav a {
+background-color: rgb(250, 198, 255);
+font-size: 15px;
+}
+footer p {
+background-color: rgb(18, 105, 0);
+color: black;
+}
+header {
+border: 5px solid blue;
+background-color: blue;
+}
+main h1 {
+text-align:center;
+color: brown;
+}
+p {
+background-color: brown;
+}
+.present{
+border: 5px solid blue;
+}
+
+
